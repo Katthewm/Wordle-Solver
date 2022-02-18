@@ -1,0 +1,11 @@
+C:\Users\mattk\Desktop\C#\Wordle solver\Wordle Solver\Wordle Solver\bin\Debug\Wordle Solver.exe.config
+C:\Users\mattk\Desktop\C#\Wordle solver\Wordle Solver\Wordle Solver\bin\Debug\Wordle Solver.exe
+C:\Users\mattk\Desktop\C#\Wordle solver\Wordle Solver\Wordle Solver\bin\Debug\Wordle Solver.pdb
+C:\Users\mattk\Desktop\C#\Wordle solver\Wordle Solver\Wordle Solver\obj\Debug\Wordle Solver.csproj.AssemblyReference.cache
+C:\Users\mattk\Desktop\C#\Wordle solver\Wordle Solver\Wordle Solver\obj\Debug\Wordle Solver.csproj.SuggestedBindingRedirects.cache
+C:\Users\mattk\Desktop\C#\Wordle solver\Wordle Solver\Wordle Solver\obj\Debug\Wordle_Solver.Form1.resources
+C:\Users\mattk\Desktop\C#\Wordle solver\Wordle Solver\Wordle Solver\obj\Debug\Wordle_Solver.Properties.Resources.resources
+C:\Users\mattk\Desktop\C#\Wordle solver\Wordle Solver\Wordle Solver\obj\Debug\Wordle Solver.csproj.GenerateResource.cache
+C:\Users\mattk\Desktop\C#\Wordle solver\Wordle Solver\Wordle Solver\obj\Debug\Wordle Solver.csproj.CoreCompileInputs.cache
+C:\Users\mattk\Desktop\C#\Wordle solver\Wordle Solver\Wordle Solver\obj\Debug\Wordle Solver.exe
+C:\Users\mattk\Desktop\C#\Wordle solver\Wordle Solver\Wordle Solver\obj\Debug\Wordle Solver.pdb
